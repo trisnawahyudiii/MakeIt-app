@@ -1,3 +1,9 @@
+## Project Owner
+
+Created to fullfill IMK Lecture Dr. I Ketut Gede Suhartana, S.Kom., M.Kom
+By : I  Wayan Trisna Wahyudi_C_2008561018
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -64,9 +70,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-##Project Owner
-
-Created to fullfill IMK Lecture Dr. I Ketut Gede Suhartana, S.Kom., M.Kom
-By : I  Wayan Trisna Wahyudi_C_2008561018
 
